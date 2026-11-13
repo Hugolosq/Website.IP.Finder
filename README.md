@@ -17,7 +17,7 @@ A simple but useful Command-Line Interface (CLI) tool written in Python.
 pip install -r requirements.txt
 ```
 ## Usage
-You can run the tool simply just clicking on the .py file
+You can run the tool simply just clicking on the .py file or running this command in terminal:
 
 ```bash
 python Website.IP.Finder-v3.0.3.py
