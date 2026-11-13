@@ -23,5 +23,6 @@ You can run the tool simply just clicking on the .py file
 python Website.IP.Finder-v3.0.3.py
 ```
 ## Screenshot
-<img width="1912" height="905" alt="image" src="https://github.com/user-attachments/assets/acf2c70d-85ff-455c-be84-e79df5c3e4a5" />
+<img width="1487" height="672" alt="image" src="https://github.com/user-attachments/assets/ae6832a2-72ca-40d2-8dc1-9d2399ef50e2" />
+
 
