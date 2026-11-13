@@ -23,4 +23,5 @@ You can run the tool simply just clicking on the .py file
 python Website.IP.Finder-v3.0.3.py
 ```
 ## Screenshot
-<img width="1477" height="706" alt="Screenshot 2026-10-24 184755" src="https://github.com/user-attachments/assets/a54daf5e-f794-410f-ad43-1191aa54bb26" />
+<img width="1912" height="905" alt="image" src="https://github.com/user-attachments/assets/acf2c70d-85ff-455c-be84-e79df5c3e4a5" />
+
