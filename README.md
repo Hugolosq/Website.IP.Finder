@@ -5,7 +5,6 @@ A simple but useful Command-Line Interface (CLI) tool written in Python.
 * Resolves a website domain to its IP address using `socket`.
 * Fetches approximate geolocation data (Country, Region, City, Coordinates) using the `ip-api.com` API.
 * Provides a direct Google Maps link to the location.
-* Includes a `.bat` launcher for easy execution on Windows.
 * Colourful and user-friendly terminal interface.
 
 ## Prerequisites
@@ -18,16 +17,10 @@ A simple but useful Command-Line Interface (CLI) tool written in Python.
 pip install -r requirements.txt
 ```
 ## Usage
-You can run the tool in two ways:
-
-Option 1: Using the Batch file (Windows)
-Simply double-click the Website.IP.Finder.bat file.
-
-Option 2: Using the terminal
-Open your terminal in the project folder and run:
+You can run the tool simply just clicking on the .py file
 
 ```bash
-python Website.IP.Finder.py
+python Website.IP.Finder-v3.0.3.py
 ```
 ## Screenshot
 <img width="1477" height="706" alt="Screenshot 2026-10-24 184755" src="https://github.com/user-attachments/assets/a54daf5e-f794-410f-ad43-1191aa54bb26" />
