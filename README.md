@@ -14,7 +14,7 @@ A simple but useful Command-Line Interface (CLI) tool written in Python.
 ## Installation
 1. Clone this repository or download the files:
 ```bash
-git clone https://github.com/Hugisso/Website.IP.Finder.git
+git clone https://github.com/Hugolosq/Website.IP.Finder.git
 ```
 2. Install the required dependencies:
 ```bash
