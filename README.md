@@ -1,5 +1,5 @@
 # Website.IP.Finder
-A simple but useful Command-Line Interface (CLI) tool written in Python.
+A simple but useful Command-Line Interface (CLI) tool written in Python for Windows
 
 ## Features
 * Resolves a website domain to its IP address using `socket`.
