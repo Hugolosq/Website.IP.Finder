@@ -16,7 +16,11 @@ A simple but useful Command-Line Interface (CLI) tool written in Python for Wind
 ```bash
 git clone https://github.com/Hugolosq/Website.IP.Finder.git
 ```
-2. Install the required dependencies:
+2. Go to the right directory:
+```bash
+cd Website.IP.Finder
+```
+3. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
@@ -24,7 +28,7 @@ pip install -r requirements.txt
 You can run the tool simply just clicking on the .py file or running this command in terminal:
 
 ```bash
-python Website.IP.Finder-v3.0.3.py
+python Website.IP.Finder.py
 ```
 To exit the program while it's running, simply type **`exit`** or **`q`** and press Enter.
 
