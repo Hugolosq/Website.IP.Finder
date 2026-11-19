@@ -34,3 +34,5 @@ To exit the program while it's running, simply type **`exit`** or **`q`** and pr
 
 ## Screenshot
 <img width="1487" height="672" alt="image" src="https://github.com/user-attachments/assets/ae6832a2-72ca-40d2-8dc1-9d2399ef50e2" />
+
+[![Verified on FreeAPI](https://findfreeapi.com/api/badge/website-ip-finder)](https://findfreeapi.com/en/service/website-ip-finder)
