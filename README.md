@@ -28,7 +28,7 @@ pip install -r requirements.txt
 You can run the tool simply just clicking on the .py file or running this command in terminal:
 
 ```bash
-python Website.IP.Finder.py
+python Website.IP.Finder-v3.0.3.py
 ```
 To exit the program while it's running, simply type **`exit`** or **`q`** and press Enter.
 
